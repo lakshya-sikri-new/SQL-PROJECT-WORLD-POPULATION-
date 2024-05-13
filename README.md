@@ -8,15 +8,15 @@ The project focuses on examining various aspects of world population data, inclu
 The world population data used in this project is sourced from reliable sources such as the United Nations, World Bank, or other reputable organizations that provide comprehensive population statistics at the global, regional, and national levels.
 
 # Analysis Steps
+
  Data Exploration
 The first step involves exploring the world population dataset to understand its structure, variables, and contents. This includes examining data types, identifying missing values, and gaining a general overview of the dataset.
+
  Data Analysis
-After cleaning the data, we proceed to analyze various aspects of world population data, such as:
+After cleaning the data, we proceed to analyze various aspects of world population data.
 
 # Total population by region or country
-Population growth rates over time
-Demographic trends (e.g., age distribution, gender distribution)
-Population density (population per square kilometer) by country or region
+Population growth rates over time Demographic trends (e.g., age distribution, gender distribution) Population density (population per square kilometer) by country or region
 Top populated countries or regions
 
 # Conclusion
